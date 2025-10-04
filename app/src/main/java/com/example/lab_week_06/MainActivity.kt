@@ -62,6 +62,55 @@ class MainActivity : AppCompatActivity() {
                     "Curious George",
                     "Award winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.AmericanCurl,
+                    "Barnaby",
+                    "Likes to nap in sunbeams.",
+                    "https://cdn2.thecatapi.com/images/4x3.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.BalineseJavanese,
+                    "Jasmine",
+                    "Enjoys playing with yarn.",
+                    "https://cdn2.thecatapi.com/images/5i2.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ExoticShorthair,
+                    "Gus",
+                    "Adores feather toys.",
+                    "https://cdn2.thecatapi.com/images/8g5.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.AmericanCurl,
+                    "Penelope",
+                    "Loves chasing laser pointers.",
+                    "https://cdn2.thecatapi.com/images/a2b.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.BalineseJavanese,
+                    "Leo",
+                    "King of the scratching post.",
+                    "https://cdn2.thecatapi.com/images/b4b.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.ExoticShorthair,
+                    "Zoe",
+                    "Expert at finding comfy spots.",
+                    "https://cdn2.thecatapi.com/images/c0a.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.AmericanCurl,
+                    "Milo",
+                    "Has a PhD in bird watching.",
+                    "https://cdn2.thecatapi.com/images/d4c.jpg"
                 )
             )
         )
